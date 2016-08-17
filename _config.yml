@@ -16,5 +16,9 @@ author:
   email: sabotproductions@gmail.com
   url: www.steveabbottauthor.com
 name: Steve Abbott - Author
+navigation:
+  - name: More About Me...
+    url: 'https://sabot03196.wordpress.com/about/'
+    type: external
 title: The Rough Draft
 description: 'So many roads, so little time...'
