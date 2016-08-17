@@ -1,16 +1,16 @@
-typography_spectrum: 0.2849273046012968
+typography_spectrum: 0.968795598950237
 color:
-  brandStrength: 0.9700978603214025
-  lightness: 0.8510752262081951
-  saturation: 0.1350411707535386
-  rhythmicContrast: 0.010458293603733182
+  brandStrength: 0.33049647929146886
+  lightness: 0.0032576837111264467
+  saturation: 0.6906369270291179
+  rhythmicContrast: 0.024662632262334228
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-layout_spectrum: 0.017327740555629134
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+layout_spectrum: 0.7915720590390265
 author:
   name: Steve Abbott
   email: sabotproductions@gmail.com
