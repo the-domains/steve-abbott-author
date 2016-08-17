@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Steve Abbott - Author]]></title>
-        <description><![CDATA[Steve Abbott - Author]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Rough Draft]]></title>
+        <description><![CDATA[The Rough Draft]]></description>
+        <link>https://thegrid.ai/steve-abbott-author/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 02:05:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 02:22:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/steve-abbott-author/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Books]]></title>
+            <description><![CDATA[<article><h1>My Books</h1><p>I've been a screenwriter for over twenty years and screenwriting has the added benefit of slowly but surely destroying your soul. Thanks to the surge in self publishing on the Amazon Kindle and a variety of other ebook platforms, I've left the wacky world of screenwriting for the independent author arena.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef85f2ec1b7958ca665131a41885b5cd/noop.jpg?input=https%3A%2F%2Fi0.wp.com%2Fsabot03196.files.wordpress.com%2F2014%2F11%2Fheadshot.jpg%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
+            <link>https://sabot03196.wordpress.com/my-books/</link>
+            <guid isPermaLink="false">4e1a07a6-eab2-4d20-8331-52c86057254f</guid>
+            <pubDate>Wed, 17 Aug 2016 02:22:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Visit Grand Teton in this 8K Timelapse]]></title>
             <description><![CDATA[<article><h1>Visit Grand Teton in this 8K Timelapse</h1><p>In 2014, brother filmmakers Will and Jim Pattiz launched their More Than Just Parks project, an ambitious effort to celebrate America's 59 National Parks by creating a visual experience at each one. Their latest film showcases Grand Teton National Park in Wyoming in 8K resolution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2579c13e2208f9afc6f4c1929d0f514c/noop.jpg?input=http%3A%2F%2Fpetapixel.com%2Fassets%2Fuploads%2F2016%2F07%2Fgrandtetonfeat.jpg"></article>]]></description>
