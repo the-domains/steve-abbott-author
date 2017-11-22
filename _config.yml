@@ -1,16 +1,16 @@
-layout_spectrum: 0.7833184902556241
-typography_spectrum: 0.33628063392825425
+layout_spectrum: 0.49361891721356843
+typography_spectrum: 0.9127481994066056
 color:
-  brandStrength: 0.22118117311038077
-  lightness: 0.898459174670279
-  saturation: 0.1640866892412305
-  rhythmicContrast: 0.5691824359819293
+  brandStrength: 0.9500193407159704
+  lightness: 0.7055398812406871
+  saturation: 0.4664767829124069
+  rhythmicContrast: 0.5350049969179574
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 author:
   name: Steve Abbott
   email: sabotproductions@gmail.com
@@ -22,3 +22,38 @@ navigation:
     type: external
 title: The Rough Draft
 description: 'So many roads, so little time...'
+purpose:
+  - type: external
+    url: 'http://www.steveabbottauthor.com/my-books'
+    label: Check out my books
+  - type: external
+    url: 'http://sabotproductions.smugmug.com/'
+    label: Check out my Photography
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8075a2941ad7d1e4626ab956fbdae5c6e918b419.jpg">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/8075a2941ad7d1e4626ab956fbdae5c6e918b419.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: imgflo.herokuapp.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2628dd5730366cc15b1843753bbf0356/noop.jpg?input=https%3A%2F%2Fsabot03196.files.wordpress.com%2F2017%2F07%2Fdsc05338.jpg
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
